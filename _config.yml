@@ -1,9 +1,9 @@
 # Site specific settings
-title: "KarajLUG Home Page"
-name: "KarajLUG"
-keywords: "linux, Karaj, Tehran, users group, lug, free software, gnu"
+title: "Clojure UG Home Page"
+name: "Clojure UG"
+keywords: "clojure,clojurescript,iranclojure"
 baseurl: ""
-url: "http://karajlug.org"
+url: "http://iranclojure.ir"
 description: "TODO"
 cover: "/assets/img/cover.svg"
 fanpage_id: ""

@@ -12,4 +12,4 @@ pom.xml.asc
 /resources/public/
 *~
 _site/
-
+**/.DS_Store
