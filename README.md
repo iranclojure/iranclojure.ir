@@ -1,5 +1,22 @@
-<h1> IranClojure WebSite</h1>
-  <h2>How to contribute</h2>
-  <h3>1.First of all you need to have <a href="https://leiningen.org/">leiningen</a> for running clojure projects if you don't have it install it please.</h3>
-  <h3>2.Clone this repository master branch</h3>
-  <h3>3.site related files are all in resources directory . we are currently using "blue_centered" theme so it's better if you work  on   that.</h3>
+# Iranian Clojure Users Group
+This is the official [IranClojure](http://iranclojure.ir) website application.
+
+## Requirements
+* Ruby `>= 2.0`
+* Bundler (`gem install bundler`)
+
+## Usage
+In order to run a local copy you have to issue the following commands:
+
+```bash
+$ bundle install # Just once
+
+# Runs the local development server on port 4000 and restart
+# the server on file change.
+$ bundle exec jekyll serve -w
+```
+
+## License
+
+This theme is under [GPL3](assets/LICENSE).
+

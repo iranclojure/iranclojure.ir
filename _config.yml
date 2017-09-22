@@ -1,0 +1,27 @@
+# Site specific settings
+title: "KarajLUG Home Page"
+name: "KarajLUG"
+keywords: "linux, Karaj, Tehran, users group, lug, free software, gnu"
+baseurl: ""
+url: "http://karajlug.org"
+description: "TODO"
+cover: "/assets/img/cover.svg"
+fanpage_id: ""
+
+# Site general settings
+lang: "en"
+ssl: false # It will redirect to https
+
+# Media
+# Just the shortname:
+# facebook: lampiaosec # Rigth
+# facebook: facebook.com/lampiaosec # Wrong
+#disqus: test
+twitter:
+facebook:
+github: //github.com/karajlug/
+google:
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
