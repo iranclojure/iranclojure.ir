@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Clojure UG</title>
+  <link href="http://localhost:4000/atom.xml" rel="self" />
+  <link href="http://localhost:4000/"/>
+  <updated>2017-10-06T19:14:01+03:30</updated>
+  <id>http://localhost:4000</id>
+  <author>
+    <name>Clojure UG</name>
+  </author>
+  
+    <entry>
+      <title>شروع</title>
+      <link href="/posts/first_post/" />
+      <updated>2017-06-24T16:30:00+04:30</updated>
+      <id>/posts/first_post</id>
+      <content type="html">کامیونیتی کلوژر ایران</content>
+    </entry>
+  
+</feed>
